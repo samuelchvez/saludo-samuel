@@ -4,7 +4,7 @@ function sleep(ms) {
 
 async function main() {
   while(true) {
-    console.log('HOLA SAMUEL!');
+    console.log('QUE BUENO QUE ESTO YA ESTA INTEGRADO A TRAVIS!');
     await sleep(1000);
   }
 }
